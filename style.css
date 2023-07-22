@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+img {
+    width: 30%;
+    height: 30%;
+    margin: 1.4%;
+}
+h1 {
+    margin-left: 1.5%;
+    font-size: 40px;
+    border-bottom: solid red;
+    font-family: 'EB Garamond', serif;
+
+    
+}
