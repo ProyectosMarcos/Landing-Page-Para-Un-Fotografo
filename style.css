@@ -15,6 +15,8 @@ h1 {
     font-size: 40px;
     border-bottom: solid red;
     font-family: 'EB Garamond', serif;
-
-    
+}
+a {
+  text-decoration: none;
+  color: black;
 }
