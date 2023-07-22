@@ -1,9 +1,10 @@
 
 body{
-    background-image: url(/imagenes/the-world-is-going-upside-down_e6487d19_1200x799.jpg);
+    background-image: url(/imagenes/the-door_32d994ad_1200x798.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+
 }
 .container {
     width: 80%;
@@ -19,7 +20,6 @@ h1 {
     color: rgb(251, 255, 4);
     background-color: rgba(0, 0, 0, 0.61);
 }
-
 a {
     color: rgb(0, 0, 0);
     font-size: 1.5rem;
@@ -30,6 +30,7 @@ a {
     cursor: pointer;
     text-decoration: none;
 }
+
 
 #modal {
     width: 100%;

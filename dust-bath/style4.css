@@ -1,14 +1,13 @@
 
 body{
-    background-image: url(/imagenes/the-world-is-going-upside-down_e6487d19_1200x799.jpg);
+    background-image: url(/imagenes/dust-bath_4ba3f5bc_1200x799.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-.container {
+    .container {
     width: 80%;
     margin: 0 auto;
-   
 }
 
 h1 {
@@ -19,7 +18,6 @@ h1 {
     color: rgb(251, 255, 4);
     background-color: rgba(0, 0, 0, 0.61);
 }
-
 a {
     color: rgb(0, 0, 0);
     font-size: 1.5rem;
